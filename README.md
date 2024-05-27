@@ -1,4 +1,4 @@
-**[Project Day 48_Kelompok 13]**
+**[Project Day 48 Oleh Kelompok 13]**
 
 File diatas merupakan **jawaban dari seluruh pertanyaan** dengan memakai python Jupyter Notebook, pertanyaan tersebut yakni:
 1. (10 point) Import Module yang Dibutuhkan.
