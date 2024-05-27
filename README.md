@@ -8,4 +8,6 @@ File diatas merupakan **jawaban dari seluruh pertanyaan** dengan memakai python 
 5. (35 point) Dapatkan Data Table Headers dan Table Rows kemudian jadikan satu DataFrame dan print menjadi .csv file.
 6. (Opsional 10 point) Apabila perlu di Cleaning atau dilakukan Transformasi data, kerjakan.
 
-Diatas terdapat **dua file** yang berformat (csv dan Jupyter Notebook).
+Dapat dilihat diatas terdapat **pengumpulan dua file** yang berformat (.csv dan Jupyter Notebook).
+
+--Sekian Terima Kasih--
